@@ -184,7 +184,7 @@ Kids learn:
 Play, break, learn, repeat.
 That’s how coders grow.
 
-https://abourdim.github.io/talking-Robot/
+https://abourdim.github.io/talking-robot/
 https://makecode.microbit.org/_UpzWvHD7k1ke
 
 Happy coding 🤖✨
